@@ -38,8 +38,6 @@ sidebar:
         - item: Diving
           link: https://youtube.com/playlist?list=PLYPN1ZTxPMUxuZ1ZUe_KVauzdEjCI_UIk
 
-        - item: Music
-
 career-profile:
     title: Career Profile
     summary: |
@@ -127,23 +125,18 @@ publications:
     intro: |
     papers:    
       - title: Experience-dependent adaptation of motor timing in ALM | poster presentation at Lake Conference 2023, WA, USA
-        link: "https://alleninstitute.org/events/lake-conferences-neural-coding-and-dynamics/"
         authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Minsung Kim, Hidehiko Inagaki
         
       - title: Experience-dependent adaptation of motor timing in ALM | poster presentation at Sunposium 2023, FL, USA
-        link: "https://www.mpfi.org/events/sunposium-conference/#abstract-submission"
         authors: Zidan Yang, Shouvik Majumder, Miho Inagaki, Minsung Kim, Hidehiko Inagaki
         
       - title: A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement
-        link: "https://www.cell.com/cell/fulltext/S0092-8674(22)00146-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422001465%3Fshowall%3Dtrue"
         authors: Hidehiko K Inagaki, Susu Chen, Margreet C Ridder, Pankaj Sah, Nuo Li, Zidan Yang, Hana Hasanbegovic, Zhenyu Gao, Charles R Gerfen, Karel Svoboda
 
       - title: "Regenerative neurogenic response from glia requires insulin-driven neuron-glia communication"
-        link: "https://elifesciences.org/articles/58756.pdf"
         authors: Neale J Harrison, Elizabeth Connolly, Alicia Gascon Gubieda, Zidan Yang, Benjamin Altenhein, Maria Losada Perez, Marta Moreira, Jun Sun, Alicia Hidalgo
 
       - title: The influence of visual cortex on perception is modulated by behavioural state
-        link: "https://www.biorxiv.org/content/biorxiv/early/2019/07/17/706010.full.pdf"
         authors: Lloyd E Russell, Zidan Yang, Pei Lynn Tan, Mehmet Fişek, Adam M Packer, Henry WP Dalgleish, Selmaan Chettih, Christopher D Harvey, Michael Häusser
         
       - title: All-optical interrogation of functional connectivity in mouse visual cortex during behavior | poster at SfN 2019, IL, USA
@@ -192,27 +185,22 @@ projects:
         tagline: "Coordnating between students and leaderships in the institute and university, to improve students' welfare and scientific life."
         
       - title: Selection committee member of MPFI NeuroMEETS seminar series | 2022 - present
-        link: "https://mpfi.org/science/max-planck-neuromeets/"
         time: 2022 - present
         tagline: "Evaluating the application materials of the candidates and select speakers for the seminar series."
         
       - title: Lead in a group project in Neuromatch Academy | 2021
-        link: "https://docs.google.com/presentation/d/1NtyK7CT58abww4WTwc1haO9IrwR9JB69zOigc3y1do8/edit?usp=sharing"    
         time: 2021 - 2021
         tagline: "Steering group meetings for the project and organize meetings with the mentor and TAs."
 
       - title: eLife community ambassador | 2018 - 2019
-        link: "https://elifesciences.org/community"
         time: 2018 - 2019
         tagline: "Spreading the awareness of open-science, equity and transparency in the research community."
 
       - title: Project judge of the Big Bang competition of UK | 2016
-        link: "https://www.thebigbang.org.uk/the-big-bang-competition/"
         time: 2016 - 2016
         tagline: "Rating project reports from middle/high schoolers and providing instructive comments."
 
       - title: Freelance writer of the popular science magzine SATNAV | 2016
-        link: "https://www.satnavmag.com/"
         time: 2016 - 2016        
         
 awards:
